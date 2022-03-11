@@ -1,6 +1,6 @@
-body {
-  background-color: #393E46
-}
+/* This is a comment in css */
+
+body {  background-color: #393E46;}
 
 hr {
   border-color: white;
@@ -9,18 +9,22 @@ hr {
   width: 10%;
 }
 
-h1 {  color: #9BA4B4;}
+img:hover { filter: sepia(40%); }
 
-h3 {  color: #9BA4B4;}
+a:hover {  color: tomato; }
 
-p {  color: #E8E8E8;}
+h1 {  color: #9BA4B4; }
 
-li {  color: #E8E8E8;}
+h3 {  color: #9BA4B4; }
 
-td {  color: #E8E8E8;}
+p {  color: #E8E8E8; }
 
-tr {  color: #E8E8E8;}
+li {  color: #E8E8E8; }
 
-a {  color: #E3CAA5;}
+td {  color: #E8E8E8; }
 
-label {  color: #E8E8E8;}
+tr {  color: #E8E8E8; }
+
+a {  color: #E3CAA5; }
+
+label {  color: #E8E8E8; }
